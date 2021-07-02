@@ -10,3 +10,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 15,3,(\.|^)nflxvideo\.net$,1,1624788511,1624788558,
 17,3,(\.|^)nflxvideo\.com$,1,1624788613,1624788613,
 18,3,(\.|^)nflxext\.com$,1,1624788690,1624788690,
+19,3,(\.|^)test\.blacklist$,1,1625269505,1625269505,

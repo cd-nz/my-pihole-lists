@@ -4,9 +4,3 @@ id,type,domain,enabled,date_added,date_modified,comment
 5,3,(\.|^)byteoversea\.com$,1,1608524576,1608524576,
 7,3,(\.|^)tik-tokapi\.com$,1,1608524599,1608524599,
 8,0,gpm.samsungqbe.com,1,1623412330,1623412330,"Added from Query Log"
-12,3,(\.|^)netflix\.com$,1,1624788282,1624788282,
-13,3,(\.|^)nflxso\.com$,1,1624788364,1624788364,
-14,3,(\.|^)nflxso\.net$,1,1624788410,1624788410,
-15,3,(\.|^)nflxvideo\.net$,1,1624788511,1624788558,
-17,3,(\.|^)nflxvideo\.com$,1,1624788613,1624788613,
-18,3,(\.|^)nflxext\.com$,1,1624788690,1624788690,

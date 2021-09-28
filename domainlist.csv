@@ -1,6 +1,2 @@
 id,type,domain,enabled,date_added,date_modified,comment
-3,3,(\.|^)tiktokv\.com$,1,1608524546,1608524546,
-4,3,(\.|^)tiktokcdn\.com$,1,1608524563,1608524563,
-5,3,(\.|^)byteoversea\.com$,1,1608524576,1608524576,
-7,3,(\.|^)tik-tokapi\.com$,1,1608524599,1608524599,
 8,0,gpm.samsungqbe.com,1,1623412330,1623412330,"Added from Query Log"

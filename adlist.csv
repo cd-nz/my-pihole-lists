@@ -1,26 +1,26 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608523470,1608523470,"Migrated from /etc/pihole/adlists.list",1639836542
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608523470,1608523470,"Migrated from /etc/pihole/adlists.list",1640441342
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1608523470,1608523470,"Migrated from /etc/pihole/adlists.list",
-3,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1611136972,1611136972,,1639836543
-4,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1611136972,1611136972,,1639836543
+3,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1611136972,1611136972,,1640441344
+4,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1611136972,1611136972,,1640441344
 5,https://v.firebog.net/hosts/static/w3kbl.txt,1,1611136972,1611136972,,1633183744
 6,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1611137011,1611137011,,1639836545
-7,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1633862495,1633862495,,1639836546
-8,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1633862495,1633862495,,1639836548
+7,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1633862495,1633862495,,1640441346
+8,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1633862495,1633862495,,1640441348
 9,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1633862495,1633862495,,1633862567
 10,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1633862495,1633862495,,1639836550
 11,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1633862495,1633862495,,1633862569
-12,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1633862495,1633862495,,1639836552
-13,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1633862495,1633862495,,1639836552
-14,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1633862495,1633862495,,1639836553
-15,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1633862495,1633862495,,1639836553
-16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1633862495,1633862495,,1639836554
-17,https://adaway.org/hosts.txt,1,1633862518,1633862518,,1639836555
-18,https://v.firebog.net/hosts/AdguardDNS.txt,1,1633862518,1633862518,,1639836556
+12,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1633862495,1633862495,,1640441352
+13,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1633862495,1633862495,,1640441352
+14,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1633862495,1633862495,,1640441353
+15,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1633862495,1633862495,,1640441353
+16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1633862495,1633862495,,1640441355
+17,https://adaway.org/hosts.txt,1,1633862518,1633862518,,1640441356
+18,https://v.firebog.net/hosts/AdguardDNS.txt,1,1633862518,1633862518,,1640441357
 19,https://v.firebog.net/hosts/Admiral.txt,1,1633862518,1633862518,,1633862574
-20,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1633862518,1633862518,,1639836557
+20,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1633862518,1633862518,,1640441358
 21,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1633862518,1633862518,,1633862576
-22,https://v.firebog.net/hosts/Easylist.txt,1,1633862518,1633862518,,1639836558
-23,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1633862518,1633862518,,1639836560
-24,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1633862518,1633862518,,1639836560
-25,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1633862518,1633862518,,1639836561
+22,https://v.firebog.net/hosts/Easylist.txt,1,1633862518,1633862518,,1640441359
+23,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1633862518,1633862518,,1640441361
+24,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1633862518,1633862518,,1640441361
+25,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1633862518,1633862518,,1640441362

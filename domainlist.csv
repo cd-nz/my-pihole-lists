@@ -1,2 +1,4 @@
 id,type,domain,enabled,date_added,date_modified,comment
 8,0,gpm.samsungqbe.com,1,1623412330,1623412330,"Added from Query Log"
+10,0,adservice.google.com,1,1648348158,1648348158,"Added from Query Log"
+11,2,(\.|^)googleadservices\.com$,1,1648348188,1648348188,

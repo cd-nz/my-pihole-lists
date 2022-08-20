@@ -1,26 +1,26 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608523470,1608523470,"Migrated from /etc/pihole/adlists.list",1660408142,133943,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608523470,1608523470,"Migrated from /etc/pihole/adlists.list",1661012942,134944,0,1
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1608523470,1608523470,"Migrated from /etc/pihole/adlists.list",,0,0,4
 3,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1611136972,1611136972,,1659417880,0,0,2
 4,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1611136972,1611136972,,1659417880,57,0,2
 5,https://v.firebog.net/hosts/static/w3kbl.txt,1,1611136972,1611136972,,1659417881,356,0,2
 6,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1611137011,1611137011,,1659417882,3496,0,2
-7,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1633862495,1633862495,,1659803345,8076,0,2
+7,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1633862495,1633862495,,1661012945,8311,0,1
 8,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1633862495,1633862495,,1659803347,37,0,2
 9,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1633862495,1633862495,,1659417887,2735,0,2
 10,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1633862495,1633862495,,1659803349,14326,0,2
 11,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1633862495,1633862495,,1659417889,2046,0,2
-12,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1633862495,1633862495,,1660408156,80307,0,1
-13,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1633862495,1633862495,,1660408156,291,0,1
+12,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1633862495,1633862495,,1661012951,83047,0,1
+13,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1633862495,1633862495,,1661012952,305,0,1
 14,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1633862495,1633862495,,1659417892,8147,0,2
 15,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1633862495,1633862495,,1659417892,2190,0,2
-16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1633862495,1633862495,,1660408157,791,0,1
-17,https://adaway.org/hosts.txt,1,1633862518,1633862518,,1659417893,7038,0,2
-18,https://v.firebog.net/hosts/AdguardDNS.txt,1,1633862518,1633862518,,1660408159,46380,0,1
+16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1633862495,1633862495,,1661012954,733,0,1
+17,https://adaway.org/hosts.txt,1,1633862518,1633862518,,1661012954,7197,0,1
+18,https://v.firebog.net/hosts/AdguardDNS.txt,1,1633862518,1633862518,,1661012955,46645,0,1
 19,https://v.firebog.net/hosts/Admiral.txt,1,1633862518,1633862518,,1659417895,636,0,2
 20,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1633862518,1633862518,,1659417896,42553,0,2
 21,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1633862518,1633862518,,1659417897,2701,0,2
-22,https://v.firebog.net/hosts/Easylist.txt,1,1633862518,1633862518,,1660408162,18170,0,1
-23,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1633862518,1633862518,,1659803362,3634,0,2
+22,https://v.firebog.net/hosts/Easylist.txt,1,1633862518,1633862518,,1661012958,18266,0,1
+23,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1633862518,1633862518,,1661012959,3633,0,1
 24,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1633862518,1633862518,,1659417900,9,0,2
-25,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1633862518,1633862518,,1659417901,17269,0,2
+25,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1633862518,1633862518,,1661012960,17373,0,1
